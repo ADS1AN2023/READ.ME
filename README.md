@@ -15,7 +15,7 @@ Bem-vindo ao Peladapp, um aplicativo de aluguel de quadras esportivas que també
 ## Tecnologias Utilizadas
 
 - Linguagem de Programação: Java
-- IDE: -
+- IDE: Net Beans
 - Banco de Dados: -
 
 ## Configuração do Ambiente
@@ -34,6 +34,6 @@ Sinta-se à vontade para contribuir para este projeto. Você pode abrir problema
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de assistência, entre em contato com [Seu Nome] em [Seu Email].
+Se você tiver alguma dúvida ou precisar de assistência, entre em contato com José Lucas em jose_lucas18@live.com
 
 Divirta-se desenvolvendo o Peladapp e trazendo mais facilidade para os amantes de esportes encontrarem quadras esportivas e serviços de goleiros e árbitros na sua região!
