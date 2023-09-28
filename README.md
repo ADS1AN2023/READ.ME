@@ -1,3 +1,4 @@
+![logo](https://github.com/ADS1AN2023/.github/assets/111397299/dc09ab7d-1693-45b0-af44-e717ec23702e)
 # Peladapp - Aluguel de Quadras Esportivas, Goleiros e Árbitros
 
 Bem-vindo ao Peladapp, um aplicativo de aluguel de quadras esportivas que também permite alugar goleiros e árbitros. Este projeto tem como objetivo criar uma plataforma onde os amantes de esportes podem facilmente encontrar e reservar quadras esportivas nas proximidades, bem como serviços de goleiros e árbitros para seus jogos.
@@ -12,15 +13,23 @@ Bem-vindo ao Peladapp, um aplicativo de aluguel de quadras esportivas que també
 
 - **Serviços de Goleiros e Árbitros**: Usuários podem procurar e contratar serviços de goleiros e árbitros para seus jogos.
 
+🚀 Em construção... 🚧
+
+## Layout
+
+- O layout da aplicação está disponível no figma:
+
+![Captura de tela 2023-09-27 224940](https://github.com/ADS1AN2023/.github/assets/111397299/94d56a73-6739-4cde-866b-469b29e2d101)
+
+https://www.figma.com/proto/BAEEtppGWKZCmbUNzXqOjJ/Peladapp?type=design&node-id=3-677&t=ux5TSXLcJ4Wtkemh-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A700 
+
+
 ## Tecnologias Utilizadas
 
 - Linguagem de Programação: Java
 - IDE: Net Beans
 - Banco de Dados: -
 
-## Configuração do Ambiente
-
-- 
 
 ## Como Executar o Projeto
 
