@@ -7,14 +7,8 @@ Bem-vindo ao VendaSY! Este é um sistema de vendas desenvolvido para auxiliar no
 - Cadastro de produtos com informações detalhadas, incluindo nome, preço, quantidade em estoque, etc.
 - Registro de vendas, com a possibilidade de adicionar produtos a cada venda.
 - Acompanhamento do estoque em tempo real.
-- Geração de relatórios de vendas e estoque.
 - Interface de usuário intuitiva e amigável.
 
-🚀 Em construção... 🚧
-
-## Layout
-
-- Em desenvolvimento...
 
 ## Tecnologias Utilizadas
 
